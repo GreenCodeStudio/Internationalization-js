@@ -1,0 +1,9 @@
+{
+  "name": "@green-code-studio/internationalization",
+  "version": "1.1.0",
+  "author": "Green Code Studio",
+  "license": "MIT",
+  "dependencies": {
+    "xmldom": "^0.6.0"
+  }
+}
