@@ -3,6 +3,7 @@
   "version": "1.1.0",
   "author": "Green Code Studio",
   "license": "MIT",
+  "repository": "https://github.com/GreenCodeStudio/Internationalization-js",
   "dependencies": {
     "xmldom": "^0.6.0"
   }
